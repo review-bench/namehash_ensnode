@@ -1,5 +1,14 @@
 # @ensnode/ens-deployments
 
+## 1.15.2
+
+### Patch Changes
+
+- [#2191](https://github.com/namehash/ensnode/pull/2191) [`39cb445`](https://github.com/namehash/ensnode/commit/39cb445b8d8790aa9d6fe2ee904e60bdb158efbd) Thanks [@tk-o](https://github.com/tk-o)! - Updates the `sepolia-v2` ENS Namespace to support the latest ENSv1+ENSv2 test deployment on Sepolia.
+
+- Updated dependencies []:
+  - enssdk@1.15.2
+
 ## 1.15.1
 
 ### Patch Changes

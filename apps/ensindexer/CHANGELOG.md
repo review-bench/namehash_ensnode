@@ -1,5 +1,19 @@
 # ensindexer
 
+## 1.15.2
+
+### Patch Changes
+
+- [#2191](https://github.com/namehash/ensnode/pull/2191) [`39cb445`](https://github.com/namehash/ensnode/commit/39cb445b8d8790aa9d6fe2ee904e60bdb158efbd) Thanks [@tk-o](https://github.com/tk-o)! - Updates the `sepolia-v2` ENS Namespace to support the latest ENSv1+ENSv2 test deployment on Sepolia.
+
+- Updated dependencies [[`39cb445`](https://github.com/namehash/ensnode/commit/39cb445b8d8790aa9d6fe2ee904e60bdb158efbd), [`04388d2`](https://github.com/namehash/ensnode/commit/04388d2193f422a95898eb0ee23e7555397b3ab6)]:
+  - @ensnode/datasources@1.15.2
+  - @ensnode/ensrainbow-sdk@1.15.2
+  - @ensnode/ensnode-sdk@1.15.2
+  - @ensnode/ensdb-sdk@1.15.2
+  - enssdk@1.15.2
+  - @ensnode/ponder-sdk@1.15.2
+
 ## 1.15.1
 
 ### Patch Changes

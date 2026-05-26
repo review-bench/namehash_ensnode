@@ -1,5 +1,16 @@
 # ensadmin
 
+## 1.15.2
+
+### Patch Changes
+
+- Updated dependencies [[`39cb445`](https://github.com/namehash/ensnode/commit/39cb445b8d8790aa9d6fe2ee904e60bdb158efbd)]:
+  - @ensnode/datasources@1.15.2
+  - @ensnode/ensnode-sdk@1.15.2
+  - @namehash/namehash-ui@1.15.2
+  - enssdk@1.15.2
+  - @ensnode/scalar-react@0.0.0
+
 ## 1.15.1
 
 ### Patch Changes

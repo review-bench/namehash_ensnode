@@ -1,5 +1,13 @@
 # @ensnode/ensdb-sdk
 
+## 1.15.2
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @ensnode/ensnode-sdk@1.15.2
+  - enssdk@1.15.2
+
 ## 1.15.1
 
 ### Patch Changes

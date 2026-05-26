@@ -1,5 +1,17 @@
 # ensapi
 
+## 1.15.2
+
+### Patch Changes
+
+- Updated dependencies [[`39cb445`](https://github.com/namehash/ensnode/commit/39cb445b8d8790aa9d6fe2ee904e60bdb158efbd)]:
+  - @ensnode/datasources@1.15.2
+  - @ensnode/ensnode-sdk@1.15.2
+  - @namehash/ens-referrals@1.15.2
+  - @ensnode/ensdb-sdk@1.15.2
+  - enssdk@1.15.2
+  - @ensnode/ponder-subgraph@1.15.2
+
 ## 1.15.1
 
 ### Patch Changes
